@@ -30,6 +30,6 @@ function removeFromCart(item) {
 function placeOrder(cardNumber) {
   // cardNumber
 
-  // 
+  // If no argument is received, the function should print out
   var myString = "Sorry, we don't have a credit card on file for you..";
 }
