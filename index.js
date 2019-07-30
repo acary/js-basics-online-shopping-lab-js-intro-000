@@ -14,7 +14,7 @@ function addToCart(item) {
 }
 
 function viewCart() {
-  // write your code here
+  // The methods, especially viewCart() require careful planning and a sharp eye.
 }
 
 function total() {
