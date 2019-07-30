@@ -31,7 +31,22 @@ function total() {
 
 function removeFromCart(item) {
   // If the item is present in the cart, the function should remove the object from the cart and then return the updated cart.
+  
   // HINT: Check each object's itemName value key to see if it matches the parameter, then remove it if it matches. You might find Array.prototype.splice() to be useful.
+
+  // var arrDeletedItems = array.splice(start[, deleteCount[, item1[, item2[, ...]]]])
+
+  // var months = ['Jan', 'March', 'April', 'June'];
+  // months.splice(1, 0, 'Feb');
+  // // inserts at index 1
+  // console.log(months);
+  // // expected output: Array ['Jan', 'Feb', 'March', 'April', 'June']
+  // 
+  // months.splice(4, 1, 'May');
+  // // replaces 1 element at index 4
+  // console.log(months);
+  // // expected output: Array ['Jan', 'Feb', 'March', 'April', 'May']
+  
   // If the cart does not contain a matching item, the function should return That item is not in your cart.
 }
 
