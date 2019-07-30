@@ -19,6 +19,8 @@ function viewCart() {
 
 function total() {
   // write your code here
+
+  return myTotal;
 }
 
 function removeFromCart(item) {
