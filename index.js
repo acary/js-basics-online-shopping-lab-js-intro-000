@@ -30,7 +30,7 @@ function removeFromCart(item) {
 function placeOrder(cardNumber) {
   // cardNumber
   // total
-  
+
   // If a card number is received, the function should empty the cart array
   // return Your total cost is $71, which will be charged to the card 83296759.
   // (where 71 is the value returned by total() and 83296759 is the credit card number passed to placeOrder())
