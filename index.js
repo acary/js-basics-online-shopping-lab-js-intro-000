@@ -18,7 +18,7 @@ function viewCart() {
 }
 
 function total() {
-  // write your code here
+  // The `total()` function accepts no arguments, iterates through the `cart` array, and returns the current total value of the items in the cart.
 
   return myTotal;
 }
